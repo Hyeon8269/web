@@ -1,0 +1,118 @@
+*{margin: 0;}
+.wrap{
+     width: 100%;
+}
+
+.box1{height: 1379px;
+    background-color: white;
+    background-position: center; 
+    background-repeat: no-repeat;
+     }
+
+    .sbox-1{ 
+        background-position: center;
+        width: 1745px; 
+        height: 1127px;
+        position: absolute;
+        top: 173px;
+        bottom: 79px;
+        right:101px;
+        left: 74px;}
+
+    .sbox-2{
+        width:707px ; 
+        height: 944px; 
+     position: absolute;
+      top: 356px;
+      bottom: 79px;
+      right:1038px;
+      left: 74px;}
+
+    .sbox-3{width: 1570px; ; 
+        height: 94px; 
+     position: absolute;
+     top: 173px;
+     bottom: 1112px;
+     right:173px;
+     left: 175px;
+     font-size: 70px;}
+
+    .sbox-4{width:860px ; 
+        height: 147px; 
+     position: absolute;
+     top: 350px;
+     bottom: 882px;
+     right:227px;
+     left: 833px;
+     font-size: 50px;}
+
+    .sbox-5{width:986px; 
+        height:766px ;
+     position: absolute;
+     top: 525px;
+     bottom: 88px;
+     right:101px;
+     left: 833px;
+     font-size: 33px;}
+
+.box2{height: 1159px;
+     background-image: url(a/a2.jpg); 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-color: #BCBAC2; }
+
+.box3{height: 988px;
+    background-color: white;
+    background-position: center; 
+    background-repeat: no-repeat;}
+
+    .fbox-1{ width: 1695px; 
+        height: 816px;
+        position: absolute;
+        top: 2649px;
+        bottom: 2355px;
+        right:112px;
+        left: 113px;
+        font-size: 33px;}
+
+.box4{height: 1280px; 
+    background-image: url(a/a3.jpg);
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-color: #181B20;}
+
+.box5{height: 976px;
+    background-color: white;
+    background-position: center; 
+    background-repeat: no-repeat;}
+
+    .xbox-1{
+        width: 1695px; 
+        height: 401px;
+        position: absolute;
+        top: 4906px;
+        bottom: 493px;
+        right:112px;
+        left: 113px;
+        font-size: 33px;}
+
+    .xbox-2{
+        width: 1140px; 
+        height: 180px;
+        position: absolute;
+        top: 5379px;
+        bottom: 246px;
+        right:112px;
+        left: 113px;
+        font-size: 33px;}
+
+    .xbox-3{
+        width: 750px; 
+        height: 41px;
+        position: absolute;
+        top: 5626px;
+        bottom: 133px;
+        right:112px;
+        left: 1125px;
+        font-size: 33px; }
+
